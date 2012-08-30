@@ -2,7 +2,8 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://itenerancy.com
+#url: http://itenerancy.com
+url: http://sigsegv42.github.com
 title: Itinerant Brewing
 subtitle: A food & homebrewing blog
 author: sigsegv
