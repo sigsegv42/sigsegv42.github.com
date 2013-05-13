@@ -1,105 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
 
-<!DOCTYPE html>
-<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
-<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
-<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
-<head>
-  <meta charset="utf-8">
-  <title>Itinerant Brewing</title>
-  <meta name="author" content="sigsegv">
-
-  
-  <meta name="description" content="I made my first steam beer about six months ago. It was my first brew of the year (not counting mead) and my first attempt at coming up with my own &hellip;">
-  
-
-  <!-- http://t.co/dKP3o1e -->
-  <meta name="HandheldFriendly" content="True">
-  <meta name="MobileOptimized" content="320">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  
-  <link rel="canonical" href="http://sigsegv42.github.io">
-  <link href="/favicon.png" rel="icon">
-  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
-  <link href="/atom.xml" rel="alternate" title="Itinerant Brewing" type="application/atom+xml">
-  <script src="/javascripts/modernizr-2.0.js"></script>
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/lib/jquery.min.js"%3E%3C/script%3E'))</script>
-  <script src="/javascripts/octopress.js" type="text/javascript"></script>
-  <!--Fonts from Google's Web font directory at http://google.com/webfonts -->
-<link href='http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic' rel='stylesheet' type='text/css'>
-<link href='http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic' rel='stylesheet' type='text/css'>
-<link href='/stylesheets/nutrition.css' rel='stylesheet' type='text/css'>
-<link href="/stylesheets/quentin.css" media="screen, projection" rel="stylesheet" type="text/css">
-
-  
-
-</head>
-
-<body   >
-  <header role="banner"><hgroup>
-  <h1><a href="/">Itinerant Brewing</a></h1>
-  
-    <h2>A food & homebrewing blog</h2>
-  
-</hgroup>
-
-</header>
-  <nav role="navigation"><ul class="subscription" data-subscription="rss">
-  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
-  
-</ul>
-  
-<form action="http://google.com/search" method="get">
-  <fieldset role="search">
-    <input type="hidden" name="q" value="site:sigsegv42.github.io" />
-    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
-  </fieldset>
-</form>
-  
-<ul role=main-navigation>
-  <li><a href="/">Blog</a></li>
-  <li><a href="/blog/archives">Archives</a></li>
-  <li><a href="/brew-log.html">Brew Log</a></li>
-  <li><a href="/brews.html">Labels</a></li>
-</ul>
-
-</nav>
-  <div id="main">
-    <div id="content">
-      <div class="blog-index">
-  
-  
-  
-    <article>
-      
-  <header>
+  <title><![CDATA[Itinerant Brewing]]></title>
+  <link href="http://sigsegv42.github.io/atom.xml" rel="self"/>
+  <link href="http://sigsegv42.github.io/"/>
+  <updated>2013-05-13T10:41:38-07:00</updated>
+  <id>http://sigsegv42.github.io/</id>
+  <author>
+    <name><![CDATA[sigsegv]]></name>
     
-      <h1 class="entry-title"><a href="/blog/2011/08/19/full-steam-ahead/">Full Steam Ahead</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
 
   
-
-
-<time datetime="2011-08-19T00:00:00-07:00" pubdate data-updated="true">Aug 19<span>th</span>, 2011</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>
-I made my <a href="/blog/2011/02/12/the-commoner/">first steam beer</a> about six months ago.  It was my first brew of the year (not counting mead) 
+  <entry>
+    <title type="html"><![CDATA[Full Steam Ahead]]></title>
+    <link href="http://sigsegv42.github.io/blog/2011/08/19/full-steam-ahead/"/>
+    <updated>2011-08-19T00:00:00-07:00</updated>
+    <id>http://sigsegv42.github.io/blog/2011/08/19/full-steam-ahead</id>
+    <content type="html"><![CDATA[<p>
+I made my <a href="http://sigsegv42.github.io/blog/2011/02/12/the-commoner/">first steam beer</a> about six months ago.  It was my first brew of the year (not counting mead) 
 and my first attempt at coming up with my own recipe.  While there were a number of milestones that came with that brew, I wasn&#8217;t all that thrilled 
 with the resulting beer.  It wasn&#8217;t bad, but try as I might, I just could never find anything particularly noteworthy about it.
 </p>
@@ -134,7 +54,7 @@ to 1/2&#8221; from their original 3/8&#8221; inner diameter.
 
 
 
-<link rel="stylesheet" type="text/css" href="/nutrition.css"></style> 
+<link rel="stylesheet" type="text/css" href="http://sigsegv42.github.io/nutrition.css"></style> 
 
 <!-- The following XHTML snippet builds a basic brewing recipe based on the design of a
 		nutrition label when accompanied by the nutrition.css stylesheet. The code is free,
@@ -254,42 +174,15 @@ I&#8217;ve really put something out for critique. The reviews are generally posi
 lager with some slight fruity notes and overall good flavor. It&#8217;s a good start, and plenty enough to keep this around for a bit 
 more tinkering in the future.
 </p>
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2011/08/15/the-mayan/">The Mayan</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2011-08-15T00:00:00-07:00" pubdate data-updated="true">Aug 15<span>th</span>, 2011</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>
+  <entry>
+    <title type="html"><![CDATA[The Mayan]]></title>
+    <link href="http://sigsegv42.github.io/blog/2011/08/15/the-mayan/"/>
+    <updated>2011-08-15T00:00:00-07:00</updated>
+    <id>http://sigsegv42.github.io/blog/2011/08/15/the-mayan</id>
+    <content type="html"><![CDATA[<p>
 The brewing process for me often starts with a simple concept or core thematic element.  It could be an ingredient, a style, or some other idea serving 
 as the inspiration for the beer.  In this case a recent thread in the HBT forums brought up the idea of an end of the world brew.
 </p>
@@ -518,42 +411,15 @@ I&#8217;m not sure how much of the cacao actually ended up coming through in the
 attributed to the grain versus the cacao.  It might be interesting to experiment with these sorts of additions more in the future.  No matter what, this is a beer
 which again taught me a lot along the way.
 </p>
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2011/07/31/the-belgian/">The Belgian</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2011-07-31T00:00:00-07:00" pubdate data-updated="true">Jul 31<span>st</span>, 2011</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>
+  <entry>
+    <title type="html"><![CDATA[The Belgian]]></title>
+    <link href="http://sigsegv42.github.io/blog/2011/07/31/the-belgian/"/>
+    <updated>2011-07-31T00:00:00-07:00</updated>
+    <id>http://sigsegv42.github.io/blog/2011/07/31/the-belgian</id>
+    <content type="html"><![CDATA[<p>
 It&#8217;s been over a year since I&#8217;ve brewed something falling into the Belgian style category.  
 My last attempt was a golden strong ale called <a href="http://itenerancy.com/blog/2009/12/22/the-belgian-blonde/">Blonde Bombshell</a>. 
 It was also my second brewing experience ever.  In the intervening time my knowledge and process has changed significantly.  
@@ -731,42 +597,15 @@ future batches as it stands.  I look forward to reworking those other less than 
 
 
 
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2011/05/20/cherry-wheat/">Cherry Wheat</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2011-05-20T00:00:00-07:00" pubdate data-updated="true">May 20<span>th</span>, 2011</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>
+  <entry>
+    <title type="html"><![CDATA[Cherry Wheat]]></title>
+    <link href="http://sigsegv42.github.io/blog/2011/05/20/cherry-wheat/"/>
+    <updated>2011-05-20T00:00:00-07:00</updated>
+    <id>http://sigsegv42.github.io/blog/2011/05/20/cherry-wheat</id>
+    <content type="html"><![CDATA[<p>
 As I&#8217;ve slowly worked my way through various new styles and ingredients to experiment with, fruit has long been on my list. I&#8217;ve been looking forward to 
 making a beer featuring cherries for nearly a year now.  The idea first came to me after seeing fresh ripe cherries at a local farmers market one weekend.  
 Unfortunately, it was already late in the season and by the time I was finally ready the opportunity for market fresh cherries had passed.
@@ -922,42 +761,15 @@ I also initially thought that I might have used a little bit too many cherries. 
 aging has helped to subdue the results a little bit.  I&#8217;ve enjoyed it a bit more a few months later than I did initially. I&#8217;m definitely looking forward to 
 experimenting with cherries again next season.  I might even try a soured version next time.  In the meantime, I still have a few bottles kept in reserve.
 </p>
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2011/05/17/shilling-parti-gyle/">Shilling Parti-gyle</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2011-05-17T00:00:00-07:00" pubdate data-updated="true">May 17<span>th</span>, 2011</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content">Batch #12 - All Grain #7
+  <entry>
+    <title type="html"><![CDATA[Shilling Parti-gyle]]></title>
+    <link href="http://sigsegv42.github.io/blog/2011/05/17/shilling-parti-gyle/"/>
+    <updated>2011-05-17T00:00:00-07:00</updated>
+    <id>http://sigsegv42.github.io/blog/2011/05/17/shilling-parti-gyle</id>
+    <content type="html"><![CDATA[Batch #12 - All Grain #7
 
 <p>
 One of my favorite batches to date has been my <a href="http://itenerancy.com/blog/2010/09/22/scottish-zombie-jesus/">Strong Scotch Ale all-grain recipe</a>.  
@@ -1130,42 +942,15 @@ I don&#8217;t find a lot of smokiness coming through.  I would definitely bump u
 role in the flavor profile last time too.  Overall, the final beer is definitely highly drinkable, but I&#8217;ll be looking to tweak the recipe a bit in the next 
 iteration.
 </p>
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2011/02/12/the-commoner/">The Commoner</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2011-02-12T00:00:00-08:00" pubdate data-updated="true">Feb 12<span>th</span>, 2011</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content">Batch #11 - All Grain #6
+  <entry>
+    <title type="html"><![CDATA[The Commoner]]></title>
+    <link href="http://sigsegv42.github.io/blog/2011/02/12/the-commoner/"/>
+    <updated>2011-02-12T00:00:00-08:00</updated>
+    <id>http://sigsegv42.github.io/blog/2011/02/12/the-commoner</id>
+    <content type="html"><![CDATA[Batch #11 - All Grain #6
 
 <p>
 I&#8217;m kicking off the 2011 brewing season with what I had anticipated on being my last brew of 2010.  I was hoping to get this brew in before the end 
@@ -1316,42 +1101,15 @@ temperature controls on the fridge at one point being turned completely off and 
 just pitched and hoped for the best.  Then there was the usual long wait and wondering if I would need to place that inevitable emergency yeast 
 order if the airlock didn&#8217;t start showing signs of life within.  Eventually after a nearly 24 hour lag, the airlock bubbling started and I knew I&#8217;d have beer.  
 </p>
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2011/02/07/razzmatazz/">Razzmatazz</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2011-02-07T00:00:00-08:00" pubdate data-updated="true">Feb 7<span>th</span>, 2011</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>
+  <entry>
+    <title type="html"><![CDATA[Razzmatazz]]></title>
+    <link href="http://sigsegv42.github.io/blog/2011/02/07/razzmatazz/"/>
+    <updated>2011-02-07T00:00:00-08:00</updated>
+    <id>http://sigsegv42.github.io/blog/2011/02/07/razzmatazz</id>
+    <content type="html"><![CDATA[<p>
 I&#8217;ve been wanting to branch out from beer and try my hand at brewing mead for quite a while.  
 Other than the suggestion that a fermented alcoholic beverage made from honey and fruit sounds delicious, I really don&#8217;t know what I&#8217;m getting into.  
 Given that I&#8217;m in completely unknown territory here, I really don&#8217;t want to commit to a full 5 gallon batch of something I might end up not liking.  
@@ -1465,42 +1223,15 @@ The plan is to transfer the liquid into a secondary carboy in about a month or s
 I will then leave it to bottle condition for a few more months before tasting the final product.  This should equate to  4-6 months from start to finish.  
 Even this amount of time is fairly young for mead.  The longer it continues to age, hopefully the better it will be - if it comes out any good at all.
 </p>
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2011/01/24/old-school/">Old School</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2011-01-24T00:00:00-08:00" pubdate data-updated="true">Jan 24<span>th</span>, 2011</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content">Batch #9 - All Grain #5
+  <entry>
+    <title type="html"><![CDATA[Old School]]></title>
+    <link href="http://sigsegv42.github.io/blog/2011/01/24/old-school/"/>
+    <updated>2011-01-24T00:00:00-08:00</updated>
+    <id>http://sigsegv42.github.io/blog/2011/01/24/old-school</id>
+    <content type="html"><![CDATA[Batch #9 - All Grain #5
 
 <p>
 It&#8217;s time for a new recipe and all new mistakes.  This is batch #2 on my v3.0 brewing system - ninth overall since I started home brewing and 
@@ -1621,42 +1352,15 @@ transferred into a glass carboy.  Over the course of the next several months, th
 to the overall character of the beer.  I will also be adding oak cubes at some point during this secondary phase in order to add another layer of flavor 
 complexity to the final beer.
 </p>
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2011/01/14/back-yard-shambling/">Back Yard Shambling</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2011-01-14T00:00:00-08:00" pubdate data-updated="true">Jan 14<span>th</span>, 2011</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>
+  <entry>
+    <title type="html"><![CDATA[Back Yard Shambling]]></title>
+    <link href="http://sigsegv42.github.io/blog/2011/01/14/back-yard-shambling/"/>
+    <updated>2011-01-14T00:00:00-08:00</updated>
+    <id>http://sigsegv42.github.io/blog/2011/01/14/back-yard-shambling</id>
+    <content type="html"><![CDATA[<p>
 It&#8217;s been a few months since my last brew.  Since then, I&#8217;ve moved into a new apartment (to be closer to my brewing assistant, of course).  
 While I still have the kitchen space and stove capacity to do my brewing inside, I&#8217;ve decided to move my brewing out of the kitchen and into 
 the back yard.  This means yet another round of upgrades to my equipment - and one of the biggest investments in new gear to date.
@@ -1826,42 +1530,15 @@ a drinkable brew from kettle to glass in around seven days.  This is record time
 Even with mistakes I&#8217;ve ended up with something wholly drinkable.  As it continues to age, the rye character comes out even further.  While I might not make 
 this exact recipe again, I&#8217;ll definitely look for a way to work rye into a future recipe.
 </p>
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2011/01/01/arrogance-party-of-two/">Arrogance, Party of Two</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2011-01-01T00:00:00-08:00" pubdate data-updated="true">Jan 1<span>st</span>, 2011</time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><h3>Batch #7 - All Grain #3</h3>
+  <entry>
+    <title type="html"><![CDATA[Arrogance, Party of Two]]></title>
+    <link href="http://sigsegv42.github.io/blog/2011/01/01/arrogance-party-of-two/"/>
+    <updated>2011-01-01T00:00:00-08:00</updated>
+    <id>http://sigsegv42.github.io/blog/2011/01/01/arrogance-party-of-two</id>
+    <content type="html"><![CDATA[<h3>Batch #7 - All Grain #3</h3>
 
 Brewed: 8-9-10
 
@@ -1972,86 +1649,917 @@ primary contributors to the flaws.  I seriously doubt any amount of aging is goi
 then it will probably get poured down the drain.  That&#8217;s just how these experiments go sometimes.  They can&#8217;t all be winners, but you can always try - so goes the 
 craft brewing ethos.
 </p>
-</div>
+]]></content>
+  </entry>
   
-  
+  <entry>
+    <title type="html"><![CDATA[El Jefe - American Hefeweizen]]></title>
+    <link href="http://sigsegv42.github.io/blog/2010/11/07/el-jefe-american-hefeweizen/"/>
+    <updated>2010-11-07T00:00:00-07:00</updated>
+    <id>http://sigsegv42.github.io/blog/2010/11/07/el-jefe-american-hefeweizen</id>
+    <content type="html"><![CDATA[Batch #6 - All Grain #2 (05-02-10)
 
-
-    </article>
-  
-  <div class="pagination">
-    
-      <a class="prev" href="/blog/page/2/">&larr; Older</a>
-    
-    <a href="/blog/archives">Blog Archives</a>
-    
-  </div>
-</div>
-<aside class="sidebar">
-  
-    <section>
-  <h1>Recent Posts</h1>
-  <ul id="recent_posts">
-    
-      <li class="post">
-        <a href="/blog/2011/08/19/full-steam-ahead/">Full Steam Ahead</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2011/08/15/the-mayan/">The Mayan</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2011/07/31/the-belgian/">The Belgian</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2011/05/20/cherry-wheat/">Cherry Wheat</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2011/05/17/shilling-parti-gyle/">Shilling Parti-gyle</a>
-      </li>
-    
-  </ul>
-</section>
-
-
-
-
-
-  
-</aside>
-
-    </div>
-  </div>
-  <footer role="contentinfo"><p>
-  Copyright &copy; 2013 - sigsegv -
-  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+<p>
+The <a href="http://www.homebrewersassociation.org/">American Homebrewers Association</a> celebrates National Homebrew Day with an event called 
+<a href="http://www.homebrewersassociation.org/pages/events/national-homebrew-day">Big Brew</a>. It is held on the first Saturday of May each year.
+  The idea is that you get a group together and everyone around the world who is participating brews at the same time. The AHA has a section of 
+  their site dedicated to tracking participants and the overall results of the event. They also provide a set of recipes to choose from so that 
+  everyone is brewing the same thing.
 </p>
 
-</footer>
+<p>
+My brew day actually took place on the next day.  Due to lack of prior planning and time constraints, I didn&#8217;t source the recipe ingredients until 
+the actual Big Brew event day.  There were three recipes available to choose from for this year&#8217;s event, each available in both extract and all grain 
+variants. The options were an American wheat, a Scottish 80 Shilling, and a Rocktoberfest.  I had just kegged a Scottish ale in the last week - my 
+Easter weekend brewed batch. The Rocktoberfest was a Lager requiring controlled low temperature fermentation which I am not yet equipped for. This 
+left only the recipe simply titled <a href="http://wiki.homebrewersassociation.org/AmericanCraftBeerWheatAllGrain">American Craft Beer Wheat All Grain</a>.  
+I&#8217;ve named my interpretation of this recipe &#8216;El Jefe&#8217;.
+</p>
+
+<h4>Grain Bill</h4>
+
+<ul>
+	<li>4.65# 2 Row Pale Malt</li>
+	<li>3.35# Wheat Malt</li>
+	<li>.2# Munich Malt</li>
+</ul>
+
+<h4>Hop Schedule</h4>
+
+<ul>
+	<li>.25oz Chinook Pellet Hops - 13% AAU @ FWH (First Wort Hop)</li>
+</ul>
+
+<ul>
+	<li>White Labs WLP320 American Hefeweizen Yeast</li>
+</ul>
+
+<h4>Steps</h4>
+
+<ul>
+	<li>Mash @145&deg; (Strike @ 155&deg;)</li>
+	<li>Rest @60 minutes</li>
+	<li>Mash Out @169&deg;</li>
+	<li>Rest @15 minutes</li>
+	<li>Sparge @173&deg;</li>
+	<li>Boil @70 minutes</li>
+	<li>Primary @ 7 days</li>
+	<li>Secondary @ 7 days</li>
+</ul>
+
+<h4>Profile</h4>
+
+<ul>
+	<li>O.G. 1.045</li>
+	<li>F.G. 1.008</li>
+	<li>ABV 4.82%</li>
+	<li>IBU 13.8</li>
+</ul>
+
+
+<p>
+I prepared the yeast starter on the day before the brew day.  To do this I first boiled 600 mL of water with 3oz. of DME for 10 minutes and then 
+cooled it down to a pitching temperature below 80&deg;F.  Then I pitched the yeast vial in my 2L Erlenmeyer flask with the starter wort and fitted 
+it with a #10 drilled stopper and airlock.  About 28 hours had elapsed by the time I had completed my brewing session and was ready to pitch the the 
+starter.  The generally recommended amount of time for propagating a starter is 24-72 hours.  Of course it depends on the particular strain and size 
+of the starter.  Another important factor for creating a successful starter - and one which can speed up the process - is proper aeration of the wort. 
+This is best accomplished using a stir plate. Not having a stir plate, I simply shook up the mixture every few hours.
+</p>
+
+<p>
+After the first all grain disaster where the manifold separated from the spigot, some repairs needed to be made. Securing the manifold with additional 
+zip ties and taking more care when stirring the mash prevented the same problem from recurring.  While the manifold stayed in place this time, wort 
+flow during the sparge was still not moving at a rate I was happy with.  Still, I was able to slowly collect the necessary pre-boil wort volume.
+</p>
+
+<p>
+<a href="http://www.flickr.com/photos/quantumfish/4580771350/in/set-72157622732321605/"><img alt="" src="http://farm5.static.flickr.com/4066/4580771350_af96945cf3.jpg" title="Blow Off" width="333" height="500" /></a>
+</p>
+
+<p>
+It wasn&#8217;t until a day into fermentation when disaster reared its ugly head.  Strong fermentation managed to clog the airlock.  Pressure continued to 
+build inside the bucket during the day while I was off at work.  The seal in the lid eventually gave way to relieve some of this build up.  The real 
+disaster of an exploding bucket of beer was narrowly avoided.  I was instead greeted with a sticky mess of overflow where the seals had given to the 
+pressure.  The primary fermentation phase was finished off with a proper blow off tube.
+</p>
+
+
+<p>
+Admittedly, wheat styles are not my favorite to begin with.  When I bring home a bomber or six pack from the store, I hardly ever bring home a wheat 
+variety.  Even so, I found this batch to be refreshing and easily drinkable.  It was a great introduction to the style and as usual I learned a lot 
+throughout the brew process.  Even so, I probably won&#8217;t make this particular recipe again.  Besides, there are plenty of other wheat variants I still haven&#8217;t touched.
+</p>
+
+
+<p>
+These write ups after each session help me see weak areas in my process that need improvement. With each subsequent session, I&#8217;m able to slowly address 
+some of those issues. Hopefully, this leads to more consistent results and ultimately better beer. This time around, one area I tackled was boil kettle 
+volume measurement.  I purchased a cheap metal yard stick at the hardware store. I calibrated it to my brew kettle by recording the measurements of 
+known quantity increments of water. I now have a simple rudimentary dipstick that can be used for measuring the pre and post boil wort volumes. Having 
+these data points available can help with the reproducibility of the process along with calculating things like actual kettle boil off rates and overall 
+brewhouse efficiency for my particular equipment configuration. 
+</p>
+]]></content>
+  </entry>
   
+  <entry>
+    <title type="html"><![CDATA[Scottish Zombie Jesus]]></title>
+    <link href="http://sigsegv42.github.io/blog/2010/09/22/scottish-zombie-jesus/"/>
+    <updated>2010-09-22T00:00:00-07:00</updated>
+    <id>http://sigsegv42.github.io/blog/2010/09/22/scottish-zombie-jesus</id>
+    <content type="html"><![CDATA[Batch #5 - All Grain #1.
+
+Brewed: 04-04-10
+
+<p>
+This is my first all grain batch and my second to be kegged.   I begin my recipe search as I most often do - by browsing the recipe 
+database at <a href="http://www.homebrewtalk.com/">HBT</a>.  Once again, I know I&#8217;m going to go with a recipe in a style I haven&#8217;t 
+done before.  This time I am picking the Scotch Ale style, a strong ale with a strong smoky malt profile.  
+<a href="http://www.moylans.com/pages/brewery/beers.htm">Moylan&#8217;s Kilt Lifter</a> is one commercial example of the style.  After a bit 
+of searching, I have chosen my base to be a recipe going by the name of <a href="http://www.homebrewtalk.com/f65/if-its-not-scottish-its-crap-33739/">&#8220;If It&#8217;s Not Scottish, It&#8217;s Crap&#8221;</a>.  
+While the reference to the Mike Meyers classic <a href="http://www.imdb.com/title/tt0108174/">&#8220;So I Married An Axe Murderer&#8221;</a> is a 
+strong consideration in my choice, ultimately it is the distinctive technique and unique hops selection used in this particular recipe 
+that draw me to my final decision.
+</p>
+
+<h4>Grain Bill</h4>
+
+<ul>
+	<li>9# 2 Row (UK)</li>
+	<li>1# Aromatic</li>
+	<li>8oz Crystal 60L</li>
+	<li>4oz Roasted Barley</li>
+	<li>4oz Special B</li>
+</ul>
+
+<h4>Steps</h4>
+
+<ul>
+	<li>Strike @ 165&deg;</li>
+	<li>Mash @ 156&deg; 60 minutes</li>
+	<li>Sparge @ 170&deg;</li>
+	<li>Boil @ 90 minutes</li>
+</ul>
+
+<h4>Hop Schedule</h4>
+
+<ul>
+	<li>0.25oz Pacific Gem 15.3% AA @ 90 minutes</li>
+	<li>0.25oz Pacific Gem 15.3% AA @ 20 minutes</li>
+	<li>0.5oz Goldings East Kent  5.3% AA @ 20 minutes</li>
+</ul>
 
 
+<p>
+The transition from the world of extracts and partial mashes into the world of all grain brewing requires a slightly expanded set of equipment
+ from what I already have.  The old 20 quart kettle which worked for concentrated malt extract boils isn&#8217;t big enough to support a full 5 gallon 
+ boil.  When working with concentrated malt extracts you can use a smaller kettle to pre-boil part of the total volume of water separately and 
+ combine it with a smaller volume of concentrated higher gravity wort in order to produce the total volume.  The all grain brewing process 
+ requires the full volume of water to be mashed with grains in order to get the equivalent original gravity - and hence a larger kettle to support 
+ that extra liquid.  The smaller kettle can still come in handy for tasks such as heating extra sparge water, but my primary boil kettle will be 
+ replaced with a 7.5 gallon stainless steel kettle.  
+</p>
+
+<p>
+For new equipment, I need a MLT (Mash Lauter Tun).  This is the vessel in which crushed grains are steeped (mashed) with hot water to produce the 
+sweet wort.   With just a few simple modifications, any cooler of sufficient size can be turned into a MLT.  I&#8217;ve chosen a round 10 gallon Igloo 
+water cooler with a few additional modifications for this job.  This is the same style of big orange water cooler which is often seen strapped to 
+the back of construction crew trucks. 
+</p>
+
+<p>
+The primary concern when considering cooler designs is how the wort will be drained from the container.  The first step usually involves replacing 
+the standard spigot with a brass/stainless steel bulkhead assembly and ball shutoff valve for easy on/off liquid flow control.  These parts are easily 
+picked up from your hardware store&#8217;s plumbing department.  Some sort of manifold or false bottom is also necessary in order to promote efficient draining 
+of the wort from the grain bed.  For my purposes, I&#8217;ve chosen a simple DIY design based on a braided stainless steel hose attached to the end of my modified 
+inner bulkhead fitting.  Parts assembled, I have everything I need to begin my first all grain brew.
+</p>
 
 
+<p>
+<a href="http://www.flickr.com/photos/quantumfish/4580770610/in/set-72157622732321605/"><img alt="Sparging" src="http://farm5.static.flickr.com/4063/4580770610_4f1a4f4cbf_d.jpg" title="Sparging" class="alignnone" width="500" height="333" /></a>
+</p>
 
 
+<p>
+One of the key characteristics which define Scottish ales are the caramelized and burnt toffee notes.  In this recipe, these flavors are produced by 
+boiling down and reducing a small amount of the first runnings before combining them with the remainder of the wort.  The first quart or two of the 
+wort drained from the MLT will be reserved and boiled separately until it is reduced in volume by around half before being combined with the remainder 
+of the wort in the boil kettle. 
+</p>
 
-  <script type="text/javascript">
-    (function(){
-      var twitterWidgets = document.createElement('script');
-      twitterWidgets.type = 'text/javascript';
-      twitterWidgets.async = true;
-      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
-      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
-    })();
-  </script>
+<p>
+This time out, I sourced everything from a different LHBS than usual.  <a href="http://www.oakbarrel.com/">Oak Barrel Winecraft</a> in Berkeley is well
+stocked with friendly, helpful staff.  Their prices are occasionally on the high side, but if you happen to live in the East Bay area, they are definitely 
+worth checking out.  Parking is easy and the store is spacious and well organized.  
+</p>
+
+<p>
+My procedure is begun by boiling up an initial gallon of water which I then pour into the MLT.  I then seal up the cooler and give it a good shake.  I&#8217;ll 
+leave this alone while I&#8217;m heating up the strike water for my mash.  When it&#8217;s time to start the mash, I&#8217;ll dump the water from the cooler and have a 
+sanitized, preheated MLT ready to go.  My target mash temperature is 156&deg;.  Given the amount of grain, the volume of mash water that will be added and 
+the equipment I am using, I need to heat my initial strike water temperature to 165&deg;.  Once all of the water has been added, it should cool down to the 
+target mash temperature.  It will then rest for 60 minutes before sparging with 170&deg; water.  Sparging is simply the process of rinsing the mashed grains 
+with additional hot water and collecting the resultant sweet wort for boiling.  The higher temperature of the sparge water is meant to stop enzymatic activity 
+in the grains and increase the flow of liquid through the grain bed.
+</p>
+
+<p>
+This being my first foray with a number of new styles, techniques, equipment, and methods something is bound to go wrong.  Almost immediately when I begin 
+sparging, I end up with a stuck sparge.  Even though the valve is opened all the way, no liquid flows out of the tun.  Running a sanitized wooden skewer through 
+the bulkhead fitting I am able to clear the blockage and begin slowly draining the wort.  After further inspection of the spent grains later on, I discover that 
+the braided hose has come loose from the inner bulkhead fitting.  Inadequate fasteners or excessive stirring of the mash are probably to blame.
+</p>
+
+<p>
+The first S.G. reading is 1.069.  The second reading is 1.061.  After 9 days in primary, I rack the beer into the secondary glass carboy.  At the time of racking 
+to secondary, the S.G. reading is 1.014.  After 12 more days in the secondary the F.G. ends up at 1.012.  At this point I transfer the beer into a keg and force 
+carbonate it at 12 PSI at 48&deg;.  It should be properly carbonated and ready to drink within another week.
+</p>
+
+<p>
+So, after everything is this a delicious quaffable brew?  Every beer I&#8217;ve made has been a good beer which I&#8217;ve enjoyed drinking.  Unfortunately, not every brew 
+is one I&#8217;ve felt is one that I would want to consider making more than once or adding to a regular rotation list.  That&#8217;s just part of the adventure of exploring 
+new style territory.  Even if it doesn&#8217;t turn out to be my favorite, I still learn a little more about how different ingredients and preparations come together 
+and affect the flavor of the final beer.  As it turns out, this is the second brew I&#8217;ve done which I would consider on the esteemed regular rotation list.  
+(The Bell&#8217;s Two Hearted Ale clone was the first to place on this list.)  Needless to say - and in spite of the problems along the way - I&#8217;m extremely pleased with 
+this brew and look forward to having a chance to make the next batch.
+</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Great Lakes Edmund Fitzgerald Porter Clone]]></title>
+    <link href="http://sigsegv42.github.io/blog/2010/04/22/great-lakes-edmund-fitzgerald-porter-clone/"/>
+    <updated>2010-04-22T00:00:00-07:00</updated>
+    <id>http://sigsegv42.github.io/blog/2010/04/22/great-lakes-edmund-fitzgerald-porter-clone</id>
+    <content type="html"><![CDATA[This is batch #3. 
+
+<p>
+My goal with each new batch of beer is to do something I&#8217;ve never done before. I use this experimentation as a way explore and learn 
+about the world of beer and brewing. There are usually several new things that I introduce each time I brew, but overall I try to limit 
+the variables to a small extent in order to help me understand the role that each one plays. In this case, I&#8217;m trying out a new style. 
+Also, I&#8217;m working with both LME and DME in a single batch. While I&#8217;ve worked with each on their own, I&#8217;ve never combined them. It shouldn&#8217;t 
+really be a big difference, but it&#8217;s still a new variable.
+</p>
+
+<p>
+This particular recipe comes from the replicator column in the December 2009 issue of Brew Your Own magazine. It&#8217;s a clone of Great Lakes 
+Brewing Co&#8217;s Edmund Fitzgerald Porter. This is a small regional brewer located in Cleveland, Ohio. I&#8217;ve never actually had the original and 
+have never seen it distributed on the west coast or even anywhere west of the Mississippi.  I chose this recipe based only on my recent 
+interest in the porter style. I can only judge the results against my experience with other porters and not whether it stacks up as a successful clone. 
+</p>
 
 
+<h4>Original Recipe</h4>
+<ul>
+	<li>6.6# Coopers Light Unhopped Extract</li>
+	<li>1.1# Light DME</li>
+	<li>12oz Crystal 60L</li>
+	<li>8oz Chocolate Malt</li>
+	<li>8oz Roasted Barley</li>
+	<li>1oz Northern Brewer 9% AAU</li>
+	<li>.5oz Fuggle 4.75% AAU</li>
+	<li>.5oz Cascade 5.75% AAU</li>
+	<li>WLP013 / Wyeast 1028</li>
+	<li>Yeast Nutrient</li>
+</ul>
+
+<h4>Profile</h4>
+<ul>
+	<li>OG 1.060</li>
+	<li>FG 1.015</li>
+	<li>IBU 37</li>
+	<li>ABV 5.8%</li>
+	<li>SRM 34</li>
+</ul>
 
 
+<p>
+<a href="http://www.flickr.com/photos/quantumfish/4539938976/"><img alt="Mise en place" src="http://farm3.static.flickr.com/2699/4539938976_be9446247a_d.jpg" title="Mise en place" class="alignnone" width="500" height="333" /></a>
+</p>
 
-</body>
-</html>
+
+<h4>Notes</h4>
+
+
+<p>
+I&#8217;ve quickly found out that my LHBS introduces yet another unforeseen factor into the mix as well. They&#8217;re a very small shop with limited 
+space for warehousing the vast array of ingredients that recipes can call for.  As a result, ingredient substitutions are sometimes necessary. 
+In this case, I&#8217;ve been forced to substitute Safale 04 as the yeast and Styrian Goldings in place of the Fuggle. Additionally - though probably 
+less notable - I used a generic pale LME rather than the Coopers branded light extract. I&#8217;m not entirely sure about the exact name or brand 
+sold at my particular shop. They simply measure requested quantities out into 1 gallon buckets from a much larger unmarked 55 gallon barrel.
+</p>
+
+
+<h4>Stats</h4>
+
+<ul>
+	<li>Brew Date: 11-15-09</li>
+	<li>Actual O.G. 1.060</li>
+	<li>Actual F.G. 1.020</li>
+	<li>Actual ABV: 5.3%</li>
+	<li>Actual IBU: 31</li>
+</ul>
+
+<h4>Schedule</h4>
+
+<ul>
+	<li>Steep grains in 1.5 gal water @ 155&deg; 30 minutes</li>
+	<li>Northern Brewer @ 60 minutes</li>
+	<li>Fuggle @ 30 minutes</li>
+	<li>DME @ 15 minutes*</li>
+	<li>Yeast Nutrient @ 15 minutes</li>
+	<li>Cascade @ 0 minutes</li>
+	<li>Primary: 3 days</li>
+	<li>Secondary: 11 days</li>
+</ul>
+
+<p>
+*One final deviation I&#8217;ve made to my version is to use late extract addition and with the DME. This leads to a slightly higher IBU due to 
+greater hop utilization. It could also potentially reduce the effects of extract caramelization which include a higher SRM (darker color) 
+and off tastes. In the case of a dark beer such as a porter, these aren&#8217;t significant issues anyway.
+</p>
+
+
+<p>
+<a href="http://www.flickr.com/photos/quantumfish/4539287457/"><img alt="Grains" src="http://farm3.static.flickr.com/2788/4539287457_b665b49d60_d.jpg" title="Grains" class="alignnone" width="500" height="333" /></a>
+</p>
+
+
+<h4>Brew Day</h4>
+
+<p>
+With two batches now under my belt, I&#8217;m beginning to feel a bit of confidence in the basic processes. There are three simple tenets to the 
+mise en place of the brew session - sanitizing, cooking water, and measuring hops. Anything that touches the wort after the boil must be 
+properly sanitized. Since this is a partial boil extract recipe, additional top off water must be first boiled and set aside to cool. More 
+water must be heated both for steeping and rinsing grains. Finally, the hops additions need to be measured out for adding during the boil as well.
+</p>
+
+<p>
+Everything seems to be going smoothly. Then, disaster strikes. Knowing the risk of burning undissolved extracts, I&#8217;ve made sure to turn off 
+the stove&#8217;s burner while the malt extract is poured and mixed into the kettle. Regardless, I&#8217;ve still somehow managed to burn it. Either my 
+boil is too vigorous or the extract just isn&#8217;t fully dissolved before turning the burners back on. Large black flecks begin to circulate in 
+the boil. I&#8217;m not sure exactly what has gone wrong, but what resemble large flakes of peeling paint are threatening to ruin my brew. I try 
+to reduce the damage by lowering the heat while still maintaining a boil and using the brew spoon to attempt to collect and fish out these 
+burnt extract confetti bits throughout the hour long boil. My only hope is that anything I can&#8217;t manage to get out of the wort is going to 
+settle out into the trub during fermentation. It&#8217;s a gamble, but the only choice I have given my limited experience and resources.
+</p>
+
+
+<h4>Final Notes</h4>
+
+<p>
+Had this been another style, the problems during the brewing session could have been much more devastating. Luckily, any off or burnt flavors or 
+darker color produced from the scorched extract are able to blend well with the porter style. Additionally, the material has mostly settled into 
+the trub and been removed from the final bottled product. Having prepared a yeast starter instead of simply relying on un-rehydrated dry yeast might 
+have also increased attenuation and helped to get closer to the expected final gravity. 
+</p>
+
+<p>
+Despite these shortcomings, after priming and bottle conditioning it still ends up being great beer. It might not be anything resembling a proper 
+clone of its namesake, but I don&#8217;t much care.  Successful recipe cloning and reproduction may certainly be a display of technical brewing expertise. 
+I&#8217;ve taken a slightly different path here. Using one interpretation of an existing successful commercial recipe I&#8217;m continuing to follow the ethos 
+of the craft and homebrew worlds and created something that is my own.
+</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Valentine's Edition Brew Day - Bell's Two Hearted Ale]]></title>
+    <link href="http://sigsegv42.github.io/blog/2010/02/19/valentines-edition-brew-day-bells-two-hearted-ale/"/>
+    <updated>2010-02-19T00:00:00-08:00</updated>
+    <id>http://sigsegv42.github.io/blog/2010/02/19/valentines-edition-brew-day-bells-two-hearted-ale</id>
+    <content type="html"><![CDATA[<p>
+So, technically, the brew was on the day after Valentine&#8217;s Day (or as it is affectionately known around the house since it coincides with 
+the Chinese New Year, Loony FatChoyintine&#8217;s Day). The ingredients were sourced on the most special of holidays, though.
+</p>
+
+<p>
+Bell&#8217;s Two Hearted Ale is an IPA brewed by <a href="http://www.bellsbeer.com/home">Bell&#8217;s</a> out of Kalamazoo, Michigan. Unfortunately, it 
+isn&#8217;t available on the west coast. My first introduction to it was through a visit to the <a href="http://www.yelp.com/biz/patton-alley-pub-springfield">Patton Alley Pub</a> 
+during my vacation back home in Springfield, Missouri. It&#8217;s a straightforward dry-hopped IPA brewed with all Centennial hops. Having enjoyed 
+my sampling and not having any access to it back home, I decided to attempt a clone. After a quick bit of Google research, I had a base extract 
+recipe and shopping list.
+</p>
+
+<h6>Ingredients Shortlist</h6>
+<ul>
+	<li>6# Extra Light DME</li>
+	<li>12oz. Wheat DME</li>
+	<li>8oz. Aromatic Malt</li>
+	<li>8oz. Crystal 10L Malt</li>
+	<li>3.5oz. Centennial 10% AAU</li>
+	<li>WLP001 Ale Yeast</li>
+	<li>Whirlfloc Tablet</li>
+</ul>
+
+<h6>Hop Schedule</h6>
+<ul>
+	<li>1.5oz. @ 60 minutes</li>
+	<li>0.5oz. @ 15 minutes</li>
+	<li>1.0oz. @ 5 minutes</li>
+	<li>0.5oz. Dry Hop @ 6 days in secondary for 7 days</li>
+</ul>
+
+<p>
+<a href="http://www.flickr.com/photos/quantumfish/4363722225/"><img alt="Malt &amp; Hops" src="http://farm5.static.flickr.com/4033/4363722225_3419e3133f.jpg" title="Malt &amp; Hops" class="alignnone" width="500" height="253" /></a>
+</p>
+
+<p>
+The clerk at my <a href="http://sfbrewcraft.com">LHBS</a> recommended sticking with a cheaper single liquid extract instead of two different 
+more expensive dry malt extracts. Taking his advice, I replaced the six pounds and twelve ounces of dry extract with eight pounds of pale liquid 
+malt extract. According to <a href="http://www.beersmith.com/">BeerSmith&#8217;s</a> calculations, this seems to produce a slightly darker, lower A.B.V, 
+and more bitter beer. The difference does not seem to be significant, though. There is a bigger difference in stats due to using the late extract 
+addition method. Less extract at the beginning of the boil means increased hops utilization and a higher final IBU. 
+</p>
+
+<h6>Vital Stats</h6>
+<ul>
+	<li>Target OG w/ LME : 1.063</li>
+	<li>Target OG w/ DME: 1.064</li>
+	<li>Target FG: 1.014</li>
+	<li>IBU w/ LME: 76.7</li>
+	<li>IBU w/ LME w/o LEA: 50.9</li>
+	<li>IBU w/ DME: 72.8</li>
+	<li>SRM w/ LME: 10.2</li>
+	<li>SRM w/ DME: 6.4</li>
+	<li>Expected ABV w/ LME: 6.35%</li>
+	<li>Expected ABV w/ DME: 6.51%</li>
+	<li>Actual Measured Session OG: 1.060</li>
+</ul>
+
+<h6>Session Recipe Summary</h6>
+<ul>
+	<li>6 quarts water @ 158 degrees</li>
+	<li>4 quarts water boiled, cooled and set aside in primary</li>
+	<li>8oz. Aromatic Malt +</li>
+	<li>8oz. Crystal 10L Malt @ 155 degrees for 30 minutes</li>
+	<li>12 quarts water @ boil</li>
+	<li>2# Pale LME @ 60 minutes</li>
+	<li>1.5oz. Centennial Pellet Hops 9% AAU @ 60 minutes</li>
+	<li>6# Pale LME @ 15 minutes</li>
+	<li>1 Whirlfloc tablet @ 15 minutes</li>
+	<li>0.5oz. Centennial Pellet Hops 9% AAU @ 15 minutes</li>
+	<li>1.0oz. Centennial Pellet Hops 9% AAU @ 5 minutes</li>
+	<li>1 WLP001 Ale yeast</li>
+	<li>0.5oz. Centennial Pellet Hops 9% AAU @ Dry Hop 7 days in Secondary</li>
+</ul>
+
+<p>
+The brewing session went along fairly smoothly and without any major hiccups. The process started with boiling and then cooling an extra gallon 
+of water that would complete the partial boil when mixed with the wort in the primary fermenter.  At the same time another gallon and a half of 
+water was heated up to 158 degrees. Once heated, the pound of milled malt grains, combined in a grain bag was steeped for thirty minutes. This 
+rest period presented a good opportunity to sanitize all of the remaining equipment and get the various ingredients measured out in the appropriate 
+timed addition quantities.
+</p>
+
+<p>
+The session picked back up with the main boiling period. I&#8217;d decided to continue to use late extract addition with a small amount of extract added 
+at the start and the bulk of the remainder near the end. So there were two extract additions and three hop additions along with the clarifier tablet 
+before flameout. The kettle then went into the ice water bath in the sink to cool down below 80 degrees. Once cool, it was mixed with the remaining 
+water in the primary fermenter and the yeast pitched. The last step was sealing it all up with the lid, stopper, and sanitized airlock.
+</p>
+
+<p>
+<a href="http://www.flickr.com/photos/quantumfish/4363723023/"><img alt="Brew Kettle" src="http://farm3.static.flickr.com/2699/4363723023_5ef65c0197.jpg" title="Brew Kettle" class="alignnone" width="500" height="333" /></a>
+</p>
+
+<p>
+Fast forward twelve hours later to the next morning and there was still virtually no airlock activity. Was the wort hotter than I thought? Had I not 
+aerated it enough? Would I need to go back to the store for more yeast and repitch? I gave it a bit more time and worrying about and by mid-afternoon, 
+the little brewing droid finally began to show signs of life with it&#8217;s dutiful bloops and gargles. Within around 36 hours after pitching, yeast activity 
+had kicked into high gear, pushing foam and solid material up into the airlock. Not wanting to switch my worrying over to a clogged airlock and a huge 
+mess, I swapped it out with a sanitized blow off tube and run off bucket.
+</p>
+
+<p>
+There are still a few areas in my process that need improvement. I forgot to take a hydrometer reading until almost an hour after I pitched the yeast. 
+This should have been done right before pitching. Also, I might have been able to aerate the wort a bit more by pouring the first batch of water in the 
+primary fermenter a bit more. I don&#8217;t think I&#8217;m getting very good conversion of my steeped grains. The slightly lower than expected O.G. reading seems 
+to suggest this. I didn&#8217;t cover the kettle during the steep so I probably lost a lot more temperature over the course of the half hour than I should have. 
+I also should have rinsed the grains with hot water at the end in order to extract more wort goodness from them. 
+</p>
+
+<p>
+<a href="http://www.flickr.com/photos/quantumfish/4368926613/in/set-72157622732321605/"><img alt="Clogged Airlock" src="http://farm5.static.flickr.com/4058/4368926613_074d69d5cc.jpg" title="Clogged Airlock" class="alignnone" width="333" height="500" /></a>
+</p>
+
+<p>
+One of the things I learned coming from the Porter session was how to better handle adding the malt extract. During that boil, the extract hit the bottom 
+of the kettle and scorched and burned. This time, during each extract addition I turned off the heat and then mixed a bit of the hot liquid into the extract 
+before adding it into the kettle. (You could think of this sort of like tempering an egg mixture when making a custard or some egg based sauce.) When working 
+with liquid extract, this loosens it up and makes it easier to mix in. Plus, you can get all of it in the kettle without leaving a thick layer stuck in your measuring container.
+</p>
+
+<p>
+All in all, it was a positive session. I&#8217;m continuing to learn new stuff every time and still have fun in the process. I&#8217;m looking forward to the dry 
+hopping procedure after I rack to secondary next - and of course to tasting the final product in the end. This will also be the first batch that I keg. 
+That&#8217;s the subject of another upcoming post&#8230;
+</p>
+
+<h6>Addendum</h6>
+
+<p>
+S.G. at the time of racking to secondary was at 1.015 for an A.B.V. of 5.74%. Everything looked good and I tossed the half ounce of pellet hops directly 
+into carboy right before sealing it up with the airlock assembly. Airlock activity is down to one or two bloop per minute now.
+</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Game Time Grub - Hot Wings]]></title>
+    <link href="http://sigsegv42.github.io/blog/2010/02/07/game-time-grub-hot-wings/"/>
+    <updated>2010-02-07T00:00:00-08:00</updated>
+    <id>http://sigsegv42.github.io/blog/2010/02/07/game-time-grub-hot-wings</id>
+    <content type="html"><![CDATA[<p>
+These are hands down, the best wings I&#8217;ve ever made. Never mind that the recipe was hastily hacked together from multiple online 
+recipe sources and only used as a rough guideline once in the kitchen. And don&#8217;t even think of bringing up the fact that I&#8217;m basing 
+this on a sample size of one and have never actually made hot wings before. Caveats in mind, here it is.
+</p>
+
+<strong>Sauce</strong>
+<ul>
+	<li>1 cup Greek yogurt</li>
+	<li>1/4 cup crumbled Bleu cheese</li>
+	<li>2 tbsp finely grated red onion</li>
+</ul>
+
+<strong>Wings</strong>
+<ul>
+	<li>1 lb chicken wings</li>
+	<li>1/2 cup flour</li>
+	<li>1 tbsp chili powder</li>
+	<li>1 tsp garlic powder</li>
+	<li>1/4 tsp salt</li>
+	<li>1/2 tsp pepper</li>
+</ul>
+
+<strong>Glaze</strong>
+<ul>
+	<li>1/3 cup red wine vinegar</li>
+	<li>1 tbsp hot sauce</li>
+	<li>1 tbsp chipotle chili in adobo, pureed or finely chopped</li>
+	<li>2 tsp chili paste</li>
+	<li>1 tbsp mustard</li>
+	<li>1 tbsp honey</li>
+	<li>1 tbsp brown sugar</li>
+	<li>2 tbsp unsalted butter</li>
+	<li>1/4 tsp salt</li>
+	<li>1/2 tsp pepper</li>
+</ul>
+
+
+<p>
+First, prepare the dipping sauce by combining the bleu cheese, yogurt and onion. The onion will probably resemble closer to a puree when grated. 
+Refrigerate the dip so the flavors can combine while the wings are prepared.
+</p>
+
+<p>
+Preheat the oven to 425 degrees.
+</p>
+
+<p>
+Prepare the wings first by trimming the tips at the last joint with a knife or kitchen shears. These tips are mostly skin and bone without any real 
+meat good for eating directly. They can still be stored in the freezer for making broth to use in other dishes.  The second preparation step is to 
+separate the wing at the first joint into two pieces.  This will create an individual drumette from each wing, making each an ideal hand-sized snack. 
+</p>
+
+<p>
+Combine the flour, chili powder, garlic powder, salt, and pepper in a shallow dish. Dredge each piece of chicken in this mixture and place on a baking 
+tray. Bake for 35 minutes, turning the chicken once partway through. 
+</p>
+
+<p>
+Prepare the glaze by combining the red wine vinegar, hot sauce, and chipotle chili with adobo sauce in a small sauce pan and bringing to a simmer.  
+Whisk in the honey, sugar, butter, mustard, chili paste, salt, and pepper.
+</p>
+
+<p>
+Toss the wings in the glaze and then bake for an additional 5-10 minutes, applying additional glaze part way through.
+</p>
+
+<p>
+Serve wings with dipping sauce and mixed vegetables (celery, carrot sticks, jicama).  
+</p>
+
+<p>
+There are a number of variations that can be done.  Bottled bleu cheese dressing or even ranch dressing can be substituted as a dipping sauce in a 
+pinch (Although the yogurt sauce is highly recommended). The glaze is also very flexible in its composition and can be based on ingredients on hand. 
+The mustard can be plain yellow, dijon or honey variety. Sriracha could be substituted for the chili paste. Molasses could be used instead of brown 
+sugar or honey. Different kinds of hot sauce and chili powders could also be used to alter the flavor and spiciness of the glaze also. 
+</p>
+
+<p>
+The final product can be tailored to individual tastes and based on how hot you like your wings. The core recipe is meant to be a guide to creating 
+something moderately spicy with tangy and sweet notes. Customize and alter to suit your tastes and spice comfort zone and call them your own.
+</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The Belgian Blonde]]></title>
+    <link href="http://sigsegv42.github.io/blog/2009/12/22/the-belgian-blonde/"/>
+    <updated>2009-12-22T00:00:00-08:00</updated>
+    <id>http://sigsegv42.github.io/blog/2009/12/22/the-belgian-blonde</id>
+    <content type="html"><![CDATA[<p>
+This is my second batch of craft home brewed beer. When I set out to pick the recipe this time around I had several goals in mind. 
+Based on my experiences the first time, I knew I wanted to expand on the knowledge and techniques I had used so far. It needed to 
+be an even bigger beer. Instead of using dry yeast it had to be a liquid variety and use a proper starter. I wanted to try a dry 
+extract using the late addition method rather than the standard liquid schedule. Lastly, it had to be a different style.
+</p>
+
+<p>
+After much contemplation and searching on various home brew recipe sites, I eventually settled on a Belgian golden strong ale known 
+as &#8220;Blonde Bombshell.&#8221; Weighing in at around 8.3% ABV, it&#8217;s a surprisingly straightforward ingredient list that leads to a big favorful 
+Belgian style beer.
+</p>
+
+<strong>Blonde Bombshell</strong>
+
+<ul>
+	<li>18B. Strong Belgian Ale, Tripel</li>
+	<li>OG 1.074</li>
+	<li>FG 1.012</li>
+	<li>IBU 26</li>
+	<li>ABV 8%</li>
+	<li>SRM 4</li>
+</ul>
+
+Recipe:
+<ul>
+	<li>1 vial WLP550 White Labs Belgian Ale Yeast</li>
+	<li>7# Light DME - 4# @ pre-boil + 3# @ 20 minutes</li>
+	<li>1# Candi Sugar - @ 15 minutes</li>
+	<li>1# Carafoam - steep 30 minutes in 1 gallon water @ 150° for 30 minutes</li>
+	<li>1oz Hallertau 4.2% AAU - @ 60 minutes</li>
+	<li>1oz Styrian Goldings 4.2% AAU - @ 30 minutes</li>
+	<li>0.5oz Styrian Goldings - @ 15 minutes</li>
+	<li>1 tsp Irish Moss - @ 15 minutes</li>
+	<li>0.5oz Styrian Goldings - @ 0 minutes</li>
+</ul>
+<strong>Yeast Starter</strong>
+
+<p>
+An average yeast packet contains around 100 billion active cells. Higher gravity beers such as this require about double that amount to hit 
+the target gravity in a 5 gallon batch. Rather than buying two packets to reach the necessary number of cells, a simple starter can be used 
+to increase the cell count of a single packet. The starter is essentially a mini-batch of low gravity beer that the yeast is pitched into 
+in order for it to feed and multiply to the required volume. Before preparing the starter, the yeast should be removed from the fridge and 
+allowed to come to room temperature for a few hours. The closer to equilibrium temperature the yeast is to the wort it is being pitched into, 
+the less initial shock it will undergo and the better chance it will have of doing its job.
+</p>
+
+<em>08-07-09 - 11PM</em>
+
+<p>
+I began with preparing a yeast starter the evening before the brewing session. The wort was prepared by mixing 1 cup of the DME into 2 pints 
+of water and boiling it for 15 minutes to sterilize it. The boil pot was then quickly cooled in an ice bath for about 10 minutes before 
+transferring the liquid to another container and pitching the yeast. The container, a funnel, large stopper, and airlock were all sanitized 
+beforehand. A stopper and airlock are then placed into the container to seal it. The airlock should begin bubbling as a sign that the yeast 
+is doing its job. The cell count should now double within the next 12 to 24 hours.
+</p>
+
+
+<p>
+<a href="http://www.flickr.com/photos/quantumfish/4125600699/in/set-72157622732321605/"><img alt="Yeast Starter" src="http://farm3.static.flickr.com/2672/4125600699_f5505a4871.jpg" title="Yeast Starter" width="333" height="500" /></a>
+</p>
+
+<p>
+A large erlenmeyer flask is often recommended because it can be used directly on the stove without requiring a separate boiling pot. However, 
+Any food grade plastic or glass container can be used to hold the starter. A bottle or jug into which a standard stopper fits works the best. 
+I used a plastic 1/2 gallon orange juice jug. The same stopper which fits in a glass carboy fits tightly in the opening.
+</p>
+
+<p>
+It is also important that the yeast gets oxygen in order to improve its efficiency. This can be accomplished most effectively by using a stir plate. 
+Though not as productive, the container can also be shaken every few hours to aerate the wort.
+</p>
+
+<strong>Brew Day</strong>
+
+<em>08-08-09 - 4PM</em>
+
+<p>
+When I purchased the hops at my LHBS, the AAU&#8217;s were slightly different from the recipe. The Hallertau was only 3.6% and the Styrian Goldings 
+were just 4%. As a result, I adjusted the recipe slightly and included an extra ounce of Hallertau in the bill. Half of it went in with the 
+original scheduled hop addition and the remainder was added at flame out.  
+</p>
+
+
+<p>
+<a href="http://www.flickr.com/photos/quantumfish/4125602051/in/set-72157622732321605/"><img alt="Dry Malt Extract" src="http://farm3.static.flickr.com/2609/4125602051_4a0114f38c.jpg" title="Beer Powder" width="500" height="333" /></a>[/caption]
+</p>
+
+<p>
+At this point, the ingredients are sorted out and I&#8217;m finally ready to begin the brew.  Once everything is organized, it&#8217;s actually a pretty 
+simple process. Boil, steep, boil, add ingredients, sterilize items, stir, etc.  From the notes taken in my log book during the session, this was my procedure:
+</p>
+
+<ol>
+	<li>boil 1 gallon water</li>
+	<li>heat 2 gallon water to 150 &deg;</li>
+	<li>place carapils in grain bag </li>
+	<li>steep grains in 2 gallons of water  for 30 minutes</li>
+	<li>in the meantime, sterilize bucket, stopper, airlock</li>
+	<li>discard grains</li>
+	<li>add 2 gallons of &#8216;grain tea&#8217; + 3qt cold water to kettle + 3# DME</li>
+	<li>heat to boil</li>
+	<li>start 60 minute boil timer</li>
+	<li>@60 minutes add 1oz hallertau + 0.5oz hallertau</li>
+	<li>@30 minutes add 1oz styrian goldings</li>
+	<li>@20 minutes kill heat</li>
+	<li>mix in remaining DME</li>
+	<li>return to boil / restart timer</li>
+	<li>@15 minutes add 1# candi sugar</li>
+	<li>@15 minutes add 0.5oz styrian goldings</li>
+	<li>@15 minutes add whirlfloc tab</li>
+	<li>in the meantime, prepare an ice bath in the sink</li>
+	<li>@0 minutes (flame out) add 0.5oz styrian goldings &amp; 0.5oz hallertau</li>
+	<li>submerse kettle in ice bath and quickly cool wort temperature below 80&deg;</li>
+	<li>pour into primary fermenter with 1 gallon water</li>
+	<li>take hydrometer sample - OG 1.074</li>
+	<li>pitch yeast starter</li>
+	<li>seal fermenter with lid, stopper, and airlock</li>
+</ol>
+
+<p>
+Within a few hours, the airlock began fervently bubbling, indicating that the yeast were healthily doing their job. It also quickly became clear 
+that the airlock need to be replaced by a blowoff tube. For the next few days while the fermentation remained fairly violent, a clear plastic tube 
+leading to a bucket of clean water replaced the airlock. After things settled, a fresh airlock was put back in place.
+</p>
+
+
+<strong>Primary Sample</strong>
+
+<em>8-15-09 (7 days)</em>
+
+<p>
+One full week after the initial brew session, I pulled a sample for a gravity reading and moved the primary fermenting bucket to the counter in 
+preparation for transferring the beer to the secondary carboy for additional aging. Doing the move ahead of time allows any sediment stirred up 
+by the movement to settle back down before the actual transfer. The gravity reading at this time comes in at 1.014 - indicating that the yeast 
+has nearly reached its full attenuation. It is only a couple of points off from the target FG for the recipe. Hopefully, it will drop the final 
+point or two over the course of the secondary conditioning period. 
+</p>
+
+
+<strong>Secondary Transfer</strong>
+
+<em>8-19-09 (11 days)</em>
+
+<p>
+Several days after moving the primary fermenter, it&#8217;s finally time to transfer to the secondary carboy. This is a pretty quick and simple process 
+that involves nothing more than attaching a tube to the spigot on the primary bucket and then opening it up to drain.  Another gravity reading 
+shows that the gravity is still at 1.014.
+</p>
+
+
+<strong>Bottling Day</strong>
+
+<em>9-20-09</em>
+
+<p>
+It&#8217;s finally time to bottle. The easiest way to bottle is to use a short piece of rubber tubing to connect the bottling wand to the end of the 
+spigot of the primary fermenter. In this way, the primary fermenter also doubles as a bottling bucket. All that needs to be done then is to 
+prepare the priming sugar solution and put it in the bucket. Next, start the auto siphon and gently transfer the beer from the secondary carboy 
+into the bucket, being careful not to splash or disturb things to introduce any additional oxygen into the beer. 
+</p>
+
+<p>
+With a collection of empty sanitized bottles and new caps prepared, the bottles can be quickly filled and then sealed. Filling the bottles is 
+simply a matter of raising each bottle up onto the wand and then removing it once the bottle is full. Each bottle can be filled all the way to 
+the top. When the wand is removed, it will leave the correct amount of head space in the bottle. Finally, cap, label, and store the bottles for 
+a few weeks of bottle conditioning.
+</p>
+
+<p>
+Unfortunately, there is no FG reading as I&#8217;ve closed a drawer on my hydrometer, making a mess of shattered glass on the floor. I can only guess 
+it has held within a point of the last reading a month ago.
+</p>
+
+<p>
+The final yield count of batch #2: 
+</p>
+
+<ul>
+  <li>20 bombers</li>
+  <li>5 12oz stubby&#8217;s</li>
+  <li>1 1pt 0.9oz</li>
+</ul>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Brewcraft]]></title>
+    <link href="http://sigsegv42.github.io/blog/2009/06/14/brewcraft/"/>
+    <updated>2009-06-14T00:00:00-07:00</updated>
+    <id>http://sigsegv42.github.io/blog/2009/06/14/brewcraft</id>
+    <content type="html"><![CDATA[<p>
+My homebrew adventure began with a trip to the local supply shop, <a href="http://www.sanfranciscobrewcraft.com/">San Francisco Brewcraft</a>. 
+After a few weeks of internet research I had a pretty good idea of what I needed to get started. Most of the necessary equipment is typically 
+packaged up into custom kits sold by just about every brewing store around. I settled on a mid-range kit composed of a 6.5 gallon plastic primary 
+fermenting bucket (with spigot), 5 gallon glass carboy secondary fermenter, stoppers, airlocks, cleaning brushes, hose, funnel, bottle caps and 
+capper, auto-siphon, hydrometer, and the ingredients for the first batch of beer. I threw in a 5 gallon brew kettle and no-rinse sanitizer and 
+was on my way to get started cooking.
+</p>
+
+<p>
+Even as I opened with the fact that I was a first time brewer, everyone in the shop was eager to provide helpful advice. In fact, The homebrew 
+community on the whole seems to be very open and welcoming of newbies just starting out on their first brew. Local shop owner &#8216;Griz&#8217; discussed 
+various tips and helped me with my first recipe. After a bit of conversation about what kind of beer I liked and wanted to make, Griz began 
+scrawling a list of ingredients out on one of the shop&#8217;s special premade recipe template sheets. His shop hands then fetched the various 
+ingredients and pieces of kit as he called them out. 
+</p>
+
+<p>
+Also highly recommended by the shop (and included with the price of the kit) was a free introductory class taught every Monday evening packed 
+with useful information about proper sanitization, boiling, and bottling techniques. Among the helpful advice given during my short visit to 
+the shop was to ignore all of the helpful advice on the internet - this information fell into either of the categories of boulderdash or that 
+which made things much more complex than they needed to be. The parting tip was to just not turn it into an anal retentive process and just 
+enjoy it. And if I happened to screw anything up, by all means call them up ASAP for help.
+</p>
+
+<p>
+<img alt="Kit" src="http://farm3.static.flickr.com/2628/4126353722_5c3bd4ef44.jpg" title="Kit" width="500" height="333" />
+</p>
+
+<p>
+Once back home with everything from my trip unloaded in the kitchen it was time to organize and start the brewing process. With my various bits 
+of kit and ingredients sorted out, I began poring over the <a href="http://www.sanfranciscobrewcraft.com/articles.asp?ID=132">included instructions</a>. 
+While I&#8217;m sure they aren&#8217;t the worst out there, with several sections scribbled out and margin annotations in my printed photocopied version, I&#8217;ve 
+definitely seen better. Luckily, even with the many subtleties and nuances available to complicate things, the basic brewing process is pretty straightforward. 
+</p>
+
+<p>
+<img alt="Ingredients" src="http://farm3.static.flickr.com/2675/4125586377_95a32741ae.jpg" title="Ingredients" width="500" height="333" />
+</p>
+
+<p>
+The procedure consists mainly of cleaning and sanitization followed by various cycles of boiling water and adding things to it. Without having a 
+large enough brewing kettle to accommodate a full 5 gallon batch, either a partial boil or 2 step process must be used instead. The simplest method 
+is the partial boil where a double strength wort is made with half of the volume of liquid and then added to the remaining half of water at the end. 
+After the first half of water is has been boiled, cooled, and added to the sanitized primary fermenting bucket, it&#8217;s finally time to get down to making the wort.
+</p>
+
+<p>
+The recipe I used was for a simple I.P.A. composed of:
+</p>
+
+<ul>
+	<li>2# Munich Malt</li>
+	<li>1/2# Aromatic Malt</li>
+	<li>1/2# Oats</li>
+	<li>6# Liquid Malt Extract</li>
+	<li>1oz. Galena Hops</li>
+	<li>1oz. Cascade Hops</li>
+	<li>Safale US-05 Dry Ale Yeast</li>
+	<li>1 whirlfloc tab</li>
+</ul>
+
+<p>
+Some of the exact ingredients are just a guess. I&#8217;m not even sure of the actual beer name. Griz&#8217;s handwriting is almost impossible to read most of the 
+time. Fortunately, the recipe sheet is laid out well enough to get the gist of which ingredients go where. It just might be difficult to get the correct 
+ingredients to ever repeat the recipe exactly elsewhere.
+</p>
+
+<img alt="Steeping Grains" src="http://farm3.static.flickr.com/2780/4126357438_21729d6e7a.jpg" title="Seeping Grains" width="500" height="333" />
+</p>
+
+<p>
+First, the specialty grains are placed in a mesh grain bag and steeped in 155&deg; water for 45 minutes before being removed from the wort and discarded 
+in the compost bin. Next, the liquid is brought to a full boil with the addition of the Liquid Malt Extract. The boil period lasts a full 60 minutes with 
+this schedule of additions:
+</p>
+
+
+<ul>
+	<li>1 oz. Galena Hops @ 60 minutes (beginning of boil)</li>
+	<li>1/2 oz. Cascade Hops @ 30 minutes (halfway through)</li>
+	<li>1 tab whirlfloc @ 30 minutes</li>
+	<li>1/2 oz. Cascade Hops @ 10 minutes (almost done)</li>
+</ul>
+
+<p>
+The boiled wort is then subjected to an ice &amp; water bath in the sink to quickly cool it down below 90&deg;. Once it has cooled, it is pitched in the 
+primary fermenter with the yeast. While the instructions indicate that the yeast be added directly to the wort, I activated the yeast in a bit of warm 
+water early on in my process. Since the kit only included a single yeast packet, I wanted to make sure I had good yeast before I became invested in the 
+wort production. Finally, after everything is mixed up, a hydrometer sample is taken and the bucket is sealed up with the lid, stopper, and airlock.
+</p>
+
+<p>
+<img alt="Fermenting Brew" src="http://farm3.static.flickr.com/2669/4125599155_bac12a17f1.jpg" title="Fermenting Brew" width="333" height="500" />
+</p>
+
+<p>
+Within about 6 hours, the airlock has started to gurgle with a frequency of every 5-10 seconds, indicating that fermentation is well underway. While the 
+recipe calls for an original specific gravity of 1.062, I landed at 1.050. I&#8217;m not sure what I did in the process to affect this, but I suspect it may 
+have been during the grain steeping step. It should ready to rack the brew into the secondary fermenter in about a week. In another two weeks, it should 
+be ready to bottle with another 2-3 weeks of bottle conditioning before it&#8217;s finally time to find out if I&#8217;ve successfully homebrewed my first batch of beer.
+</p>
+
+<p>
+<a href="http://www.flickr.com/photos/quantumfish/sets/72157622732321605/">Full Image Gallery</a>
+</p>
+]]></content>
+  </entry>
+  
+</feed>

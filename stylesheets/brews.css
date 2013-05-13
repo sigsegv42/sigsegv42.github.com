@@ -1,0 +1,19 @@
+body {
+  background: #123;
+  color: #333;
+  font-size: 11px;
+  height: auto;
+  padding-bottom: 20px;
+}
+
+.container_12,
+.container_16,
+.container_24 {
+  background-repeat: repeat-y;
+  margin-bottom: 20px;
+}
+
+.grid_4 {
+  margin-bottom: 10px;
+  margin-top: 10px;
+}

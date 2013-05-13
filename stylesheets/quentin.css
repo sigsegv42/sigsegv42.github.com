@@ -1,0 +1,40 @@
+/* 
+ * based on: http://quentin.pikemurdy.com/ 
+ */
+html {
+	background: none; 
+}
+body {
+	background: #5B211A url(../images/quentin/quentin-body-red.jpg) repeat-x center top;
+}
+#main {
+	background: #F2E2C1; 
+	border: 10px solid #411213; 
+}
+#content { 
+	background-color: transparent;
+}
+
+aside.sidebar section h1 {
+	border-bottom-color: #4D3B27;
+}
+
+aside.sidebar li {
+	border-bottom-color: #4D3B27;	
+}
+
+a:active {
+	color: #4D3B27;
+}
+
+a:hover {
+	color: #333;
+}
+
+#content .blog-index article h1 a:hover {
+	color: #411213;
+}
+
+table.nutrition {
+	background-color: #FFFFFF;
+}
